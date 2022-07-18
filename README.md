@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lakshya Saxena</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<!-- <h3 align="center">A passionate full Stack developer from India</h3> -->
 
-- 🔭 I’m currently working on **ShopIt (E-commerce Website)**
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=saxena07&count_private=true&theme=tokyonight&showicons=true)]()   
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saxena07&langs_count=5&theme=tokyonight)]()
 
-- 🌱 I’m currently learning **Creating your own Crypto Token**
-
-<!-- - 👨‍💻 All of my projects are available at [not made yet] -->
-
-- 💬 Ask me about **EXPRESS, NODE, EJS, GITHUB(version control) etc**
 
 - 📫 How to reach me **saxenalakshya125@gmail.com**
 
