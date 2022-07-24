@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lakshya Saxena</h1>
 <!-- <h3 align="center">A passionate full Stack developer from India</h3> -->
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=saxena07&count_private=true&theme=tokyonight&showicons=true)]()   
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saxena07&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=saxena07&count_private=true&theme=tokyonight&showicons=true)]() 
 
 
 - 📫 How to reach me **saxenalakshya125@gmail.com**
