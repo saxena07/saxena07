@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saxenaji_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saxenaji_07" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/saxenaji_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saxenaji_07" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/lakshya07saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshya07saxena" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16556282/lakshya-saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16556282/lakshya-saxena" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/saxena07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saxena07" height="30" width="40" /></a>
